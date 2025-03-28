@@ -21,28 +21,28 @@ O projeto demonstra a aplicação da IA generativa para:
 ### 1️⃣ Principais Pontos Turísticos de Recife
 Recife é uma cidade cheia de história, cultura e belezas naturais. Aqui estão alguns dos lugares mais emblemáticos:
 
-Marco Zero: O coração simbólico da cidade, onde ocorrem grandes eventos culturais e festivais.
+* Marco Zero: O coração simbólico da cidade, onde ocorrem grandes eventos culturais e festivais.
 
-Praia de Boa Viagem: Famosa por suas piscinas naturais e arrecifes, perfeita para banho.
+* Praia de Boa Viagem: Famosa por suas piscinas naturais e arrecifes, perfeita para banho.
 
-Instituto Ricardo Brennand: Um castelo que abriga um acervo incrível de arte e armaduras medievais.
+* Instituto Ricardo Brennand: Um castelo que abriga um acervo incrível de arte e armaduras medievais.
 
-Recife Antigo: Região histórica com casarões coloridos, bares e o Paço do Frevo, museu dedicado ao ritmo pernambucano.
+* Recife Antigo: Região histórica com casarões coloridos, bares e o Paço do Frevo, museu dedicado ao ritmo pernambucano.
 
-Oficina Cerâmica Francisco Brennand: Um espaço artístico único com esculturas surrealistas.
+* Oficina Cerâmica Francisco Brennand: Um espaço artístico único com esculturas surrealistas.
 
-Parque das Esculturas: Exposição ao ar livre de obras de Francisco Brennand, com vista para o Rio Capibaribe.
+* Parque das Esculturas: Exposição ao ar livre de obras de Francisco Brennand, com vista para o Rio Capibaribe.
 
 "Recife é uma mistura de tradição e modernidade, onde cada rua conta uma história!"
 
 ### 2️⃣ Imagem do Marco Zero em Estilo Cartoon
-(Imagem gerada por IA inspirada no Marco Zero, com cores vibrantes e traços estilizados.)
 
+![Um cenário cartoonizado do Marco Zero, com a rosa dos ventos no chão  Pessoas dançando frevo ao fundo  Cores quentes (vermelhos, amarelos e laranjas](https://github.com/user-attachments/assets/35c83fc4-91cf-4414-82fb-e55d5ff87fe0)
 📌 Descrição da imagem:
 
 Um cenário cartoonizado do Marco Zero, com a rosa dos ventos no chão.
 
-Pessoas dançando frevo ao fundo.
+Pessoas dançando ao fundo.
 
 Cores quentes (vermelhos, amarelos e laranjas) remetendo à cultura pernambucana.
 
