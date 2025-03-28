@@ -63,9 +63,8 @@ def frevo_dance(passos):
             print(f"Passo {passo}: {frevo_moves[passo]}")
         else:
             print("Passo desconhecido! Invente o seu!")
-
-# Executando a função
-frevo_dance([1, 2, 3, 4])
+            # Executando a função
+            frevo_dance([1, 2, 3, 4])
 Saída:
 
 Copy
