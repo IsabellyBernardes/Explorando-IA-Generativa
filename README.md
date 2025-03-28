@@ -46,8 +46,6 @@ Pessoas dançando ao fundo.
 
 Cores quentes (vermelhos, amarelos e laranjas) remetendo à cultura pernambucana.
 
-(Incluir print ou link da imagem gerada no README.)
-
 ### 3️⃣ Código em Python: Simulando Passos de Frevo
 python
 Copy
