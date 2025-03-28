@@ -49,6 +49,7 @@ Cores quentes (vermelhos, amarelos e laranjas) remetendo à cultura pernambucana
 ### 3️⃣ Código em Python: Simulando Passos de Frevo
 python
 Copy
+```
 def frevo_dance(passos):
     frevo_moves = {
         1: "Passo do parafuso (giro rápido)",
@@ -65,6 +66,7 @@ def frevo_dance(passos):
             print("Passo desconhecido! Invente o seu!")
             # Executando a função
             frevo_dance([1, 2, 3, 4])
+```
 Saída:
 
 Copy
