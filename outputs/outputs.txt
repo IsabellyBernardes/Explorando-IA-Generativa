@@ -1,0 +1,53 @@
+# Resultados gerados pela IA (Copilot/OpenAI)
+
+## 1️⃣ PRINCIPAIS PONTOS TURÍSTICOS DE RECIFE
+
+1. **Marco Zero**  
+   *Localização: Praça Rio Branco, Recife Antigo*  
+   Considerado o berço da cidade, onde Recife nasceu em 1537. O chão possui uma rosa dos ventos gigante e é palco do Carnaval e festivais culturais. À noite, a orla iluminada reflete no Rio Capibaribe.
+
+2. **Instituto Ricardo Brennand**  
+   *Localização: Várzea*  
+   Um castelo neogótico que abriga a maior coleção de armas brancas do mundo, obras de Frans Post e um jardim de esculturas surrealistas. Destaque para a exposição permanente "O Brasil Holandês".
+
+3. **Praia de Boa Viagem**  
+   *Localização: Zona Sul*  
+   A praia urbana mais famosa, com piscinas naturais formadas pelos arrecifes. A avenida à beira-mar é repleta de coqueiros, ciclovia e restaurantes de frutos do mar.
+
+4. **Paço do Frevo**  
+   *Localização: Recife Antigo*  
+   Museu interativo dedicado ao frevo (Patrimônio Imaterial da Humanidade pela UNESCO). Oferece oficinas de dança, exposições sobre os blocos carnavalescos e shows ao vivo.
+
+5. **Oficina Cerâmica Francisco Brennand**  
+   *Localização: Várzea*  
+   Ateliê-museu com mais de 2.000 esculturas eróticas e mitológicas do artista. Os jardins com ovos gigantes e figuras surrealistas são instagramáveis.
+
+6. **Parque das Esculturas**  
+   *Localização: Marco Zero (acesso por barco)*  
+   Complexo ao ar livre com 90 obras de Francisco Brennand, incluindo a icônica "Coluna de Cristal" (30m de altura). Melhor visualização ao pôr do sol.
+
+---
+
+## 2️⃣ IMAGEM GERADA: "MARCO ZERO EM CARTOON"  
+
+*Arquivo:* `outputs/Um cenário cartoonizado do Marco Zero, com a rosa dos ventos no chão. Pessoas dançando frevo ao fundo. Cores quentes (vermelhos, amarelos e laranjas).png`  
+---
+
+## 3️⃣ CÓDIGO PYTHON: SIMULADOR DE FREVO  
+
+def frevo_dance(passos):
+    frevo_moves = {
+        1: "Passo do parafuso (giro rápido)",
+        2: "Tesoura (pernas cruzadas no ar)",
+        3: "Pontinha (movimento rápido na ponta dos pés)",
+        4: "Ferrolho (deslize lateral)"
+    }
+    
+    print("🎶 Simulando passos de Frevo! 🎶")
+    for passo in passos:
+        if passo in frevo_moves:
+            print(f"Passo {passo}: {frevo_moves[passo]}")
+        else:
+            print("Passo desconhecido! Invente o seu!")
+            # Executando a função
+            frevo_dance([1, 2, 3, 4])

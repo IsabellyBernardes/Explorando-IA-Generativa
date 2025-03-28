@@ -1,0 +1,11 @@
+# Solicitações enviadas ao Copilot/OpenAI para gerar conteúdos sobre Recife:
+
+1. "Liste os 6 principais pontos turísticos de Recife, incluindo uma breve descrição histórica
+ ou cultural de cada um. Formate como uma lista markdown."
+
+2. "Gere uma imagem em estilo cartoon do Marco Zero de Recife, com cores vibrantes, a rosa dos ventos
+ no chão e pessoas dançando frevo ao fundo. Inclua elementos que remetam à cultura pernambucana."
+
+3. "Crie um código em Python que simule 4 passos básicos do frevo (como 'parafuso', 'tesoura', etc.). 
+O programa deve receber uma lista de passos e retornar a descrição de cada movimento. Use um dicionário 
+para mapear os passos."
